@@ -10,10 +10,10 @@
 
 **Folders**
 TeamGit
-├──app.js
-├──demo.html
-├──index.html
-├──readme.md
+├──app.js  
+├──demo.html  
+├──index.html  
+├──readme.md  
 
 ## Các lệnh cơ bản của git
 ### Những câu lệnh cơ bản
